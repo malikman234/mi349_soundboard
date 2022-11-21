@@ -1,0 +1,28 @@
+#cough{
+    font-size:20px;
+    font-family: monospace; 
+    color: rgb(255, 0, 221);   
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+#bell{
+    font-size: 20px;
+    font-family: monospace;
+    color: rgb(24, 100, 213);
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+#applause{
+    font-size: 20px;
+    font-family: monospace;
+    color: #ff5500;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
